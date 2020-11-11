@@ -1,7 +1,7 @@
 # learn-gradle
 Learn Gradle
 
-
+[https://docs.gradle.org/current/userguide/getting_started.html](https://docs.gradle.org/current/userguide/getting_started.html)
 [https://github.com/gradle/gradle](https://github.com/gradle/gradle)
 [https://habr.com/ru/post/167227/](https://habr.com/ru/post/167227/)
 [https://habr.com/ru/post/458046/](https://habr.com/ru/post/458046/)
